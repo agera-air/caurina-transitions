@@ -1,7 +1,7 @@
 # caurina.transitions
 
 <p align="center">
-  <a href="https://agera-air.github.io/caurina-transitions-api-reference/">
+  <a href="https://agera-air.github.io/api-reference/caurina.transitions">
     <img src="https://img.shields.io/badge/ActionScript%20API%20documentation-gray">
   </a>
 </p>
@@ -10,4 +10,4 @@ This is a modification of the [Tweener library by Zeh Fernando](https://github.c
 
 ## Documentation
 
-Browse the [API reference](https://agera-air.github.io/caurina-transitions-api-reference) for documentation.
+Browse the [API reference](https://agera-air.github.io/api-reference/caurina.transitions) for documentation.
